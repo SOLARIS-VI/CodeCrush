@@ -89,44 +89,44 @@ CodeCrush plans to extend its features with:
 ## 10. How to Run the Project
 
 
-To run the CodeCrush project locally, follow these steps:
+## To run the CodeCrush project locally, follow these steps:
 
-Clone the repository:
+## Clone the repository:
    ```shell
    git clone https://github.com/your-username/CodeCrush.git
 
-Navigate to the project directory:
+## Navigate to the project directory:
 cd CodeCrush
 
-Install dependencies for the frontend and backend. Open two terminal windows and run the following commands in each:
+## Install dependencies for the frontend and backend. Open two terminal windows and run the following commands in each:
 
-Frontend:
+## Frontend:
 cd CodeCrushApp
 npm install
 
-Backend:
+## Backend:
 cd Java
+
 # Install dependencies for your Java project, e.g., using Maven or Gradle.
 
-Set up the database:
+## Set up the database:
 
-Create a PostgreSQL database and update the database configuration in the backend code accordingly.
+## Create a PostgreSQL database and update the database configuration in the backend code accordingly.
 Configure Firebase authentication:
 
-Set up Firebase authentication and update the Firebase configuration in the frontend code.
+## Set up Firebase authentication and update the Firebase configuration in the frontend code.
 Start the frontend and backend servers. Run these commands in their respective terminal windows:
 
-Frontend (from the CodeCrushApp directory):
+## Frontend (from the CodeCrushApp directory):
 npm run dev
 
-Backend (from the Java directory):
-# Start your Java Spring application.
+## Backend (from the Java directory):
+Start your Java Spring application.
 
-Access the application in your web browser at http://localhost:3000.
+## Access the application in your web browser at http://localhost:3000.
 
-Now you have CodeCrush up and running locally! Enjoy improving your coding skills and challenging yourself daily.
+## Now you have CodeCrush up and running locally! Enjoy improving your coding skills and challenging yourself daily.
 
-If you have any questions or encounter issues, please refer to our Wiki for further guidance and troubleshooting.
 
 
 
