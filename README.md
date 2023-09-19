@@ -123,7 +123,7 @@ Start your Java Spring application.
 
 ## 6. Access the application in your web browser at http://localhost:3000.
 
-## Now you have CodeCrush up and running locally! Enjoy improving your coding skills and challenging yourself daily.
+Now you have CodeCrush up and running locally! Enjoy improving your coding skills and challenging yourself daily.
 
 
 
