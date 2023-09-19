@@ -94,17 +94,18 @@ CodeCrush plans to extend its features with:
 
 To run the CodeCrush project locally, follow these steps:
 
-## 1. 
-## Clone the repository:
+## Step 1
+Clone the repository:
 git clone https://github.com/your-username/CodeCrush.git
 
-## 2. 
-## Navigate to the project directory:
+## Step 2 
+Navigate to the project directory:
 cd CodeCrush
 
-## 3. 
-## Install dependencies for the frontend and backend. 
-## Open two terminal windows and run the following commands in each:
+## Step 3 
+Install dependencies for the frontend and backend. 
+
+Open two terminal windows and run the following commands in each:
 
 Frontend:
 cd CodeCrushApp
@@ -114,14 +115,14 @@ Backend:
 cd Java
 Install dependencies for your Java project, e.g., using Maven or Gradle.
 
-## 4. 
-## Set up the database:
+## Step 4
+Set up the database:
 
 Create a PostgreSQL database and update the database configuration in the backend code accordingly.
 Configure Firebase authentication:
 
-## 5. 
-## Set up Firebase authentication and update the Firebase configuration in the frontend code.
+## Step 5
+Set up Firebase authentication and update the Firebase configuration in the frontend code.
 
 Start the frontend and backend servers. Run these commands in their respective terminal windows:
 
@@ -131,10 +132,11 @@ npm run dev
 Backend (from the Java directory):
 Start your Java Spring application.
 
-## 6. 
-## Access the application in your web browser at http://localhost:3000.
+## Step 6 
+Access the application in your web browser at http://localhost:3000.
 
-Now you have CodeCrush up and running locally! Enjoy improving your coding skills and challenging yourself daily.
+Now you have CodeCrush up and running locally! Enjoy 
+improving your coding skills and challenging yourself daily.
 
 
 
