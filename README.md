@@ -22,12 +22,12 @@ Whether you're a seasoned developer, a recent graduate, or someone looking to sw
 CodeCrush is designed for:
 
 * Coders and programmers seeking daily challenges and consolidated knowledge.
-* Developers/Engineers preparing for technical interviews to enhance their knowledge and confidence.
 * Bootcamp Graduates
 * Computer Science Graduates
-* Junior and Senior Software Developers & Engineers
-* Adult Learners
 * General Career Changers Entering the Tech Industry
+* Junior and Senior Software Developers & Engineers
+* Developers & Engineers preparing for technical interviews to enhance their knowledge and confidence.
+* Adult Learners
 * Tech Enthusiasts
 
 ## 2. Content and Curriculum
