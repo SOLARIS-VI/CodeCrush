@@ -25,7 +25,7 @@ CodeCrush is designed for:
 * Developers/Engineers preparing for technical interviews to enhance their knowledge and confidence.
 * Bootcamp Graduates
 * Computer Science Graduates
-* Junior and Senior Software Developers/Engineers
+* Junior and Senior Software Developers & Engineers
 * Adult Learners
 * General Career Changers Entering the Tech Industry
 * Tech Enthusiasts
@@ -42,8 +42,7 @@ CodeCrush's curriculum starts with Python programming and offers
 
 ## 4. User Experience and User Interface (UI/UX)
 
-CodeCrush places emphasis on a clean and intuitive interface for a 
-smooth user experience. It also integrates sound effects to enhance user engagement.
+CodeCrush places emphasis on a clean and intuitive interface for a smooth user experience.
 
 ## 5. Gamification and Motivation
 
@@ -86,7 +85,7 @@ It offers the ability to earn rewards such as winning streaks, star power, point
 CodeCrush plans to extend its features with:
 
 * Intermediate and expert levels introduced for more advanced users.
-* Integration of authorization via Google API for streamlined login.
+* Integration of authorisation via Google API for streamlined login.
 * User profiles with scores, names, and avatars visible to the user.
 * A leaderboard feature allowing users to compare their progress.
 
