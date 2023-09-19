@@ -1,6 +1,7 @@
 # CodeCrush
 
-Welcome to CodeCrush, an interactive learning platform designed to challenge and enhance your coding skills. Whether you're a seasoned developer, a recent graduate, or someone looking to switch careers into tech, CodeCrush has something for you.
+Welcome to CodeCrush, an interactive learning platform designed to challenge and enhance your coding skills. 
+Whether you're a seasoned developer, a recent graduate, or someone looking to switch careers into tech, CodeCrush has something for you.
 
 ## Table of Contents
 1. [Target Audience](#1-target-audience)
@@ -31,7 +32,8 @@ CodeCrush is designed for:
 
 ## 2. Content and Curriculum
 
-CodeCrush's curriculum starts with Python programming and offers 3 daily questions with a mix of technical and code-related challenges.
+CodeCrush's curriculum starts with Python programming and offers 
+3 daily questions with a mix of technical and code-related challenges.
 
 ## 3. Interactive Learning
 
@@ -40,7 +42,8 @@ CodeCrush's curriculum starts with Python programming and offers 3 daily questio
 
 ## 4. User Experience and User Interface (UI/UX)
 
-CodeCrush places emphasis on a clean and intuitive interface for a smooth user experience. It also integrates sound effects to enhance user engagement.
+CodeCrush places emphasis on a clean and intuitive interface for a 
+smooth user experience. It also integrates sound effects to enhance user engagement.
 
 ## 5. Gamification and Motivation
 
@@ -75,7 +78,8 @@ CodeCrush places emphasis on a clean and intuitive interface for a smooth user e
 
 ## 8. Minimum Viable Product (MVP)
 
-CodeCrush provides a user-friendly interface for daily interactive quizzes focusing on code learning. It offers the ability to earn rewards such as winning streaks, star power, points, and medals.
+CodeCrush provides a user-friendly interface for daily interactive quizzes focusing on code learning. 
+It offers the ability to earn rewards such as winning streaks, star power, points, and medals.
 
 ## 9. Extensions (EXT)
 
